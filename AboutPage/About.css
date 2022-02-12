@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 10vw;
+    margin-left: 10vw;
+    background-color: hsl(30deg 50% 98%);
+}
+img{
+    width: 80vw;
+    height: 50vh;
+}
+h1{
+    text-align: left;
+}
+.head{
+    text-align: center;
+    color: rgb(253, 251, 249);
+    font-size: 8px;
+    padding: 0;
+    background-color: rgb(7, 56, 58);
+    border: 2px solid black;
+    border-radius: 10vh;
+}
+
+h2{
+    margin-top: 7vh;
+    font-size: 35px;
+    color: brown;
+    text-align: center;
+    font-family: cursive;
+
+}
+.Head{
+    margin-top: 1vh;
+    display: flexbox;
+}
+.Head img{
+    height: 25vh;
+    border: 2px solid black;
+    border-radius: 44vh;
+    background-color: rgb(7, 56, 58);
+}
+.clogo{
+    float: left;
+    width: 10vw;
+    border: none;
+    
+}
+.glogo{
+    float: right;
+    width: 10vw;
+    border: none;
+}
+.head h3{
+    font-size: 20px;
+    height: 0.4vh;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 2.75vw;
+    padding-left: 2.75vw;
+    font-family: ui-monospace;
+    color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-size: 25px;
+    display: inline-block;
+    padding-bottom: 40px;
+    
+}
+.images img{
+    display: flexbox;
+    margin-top: 5vh;
+    border: 1px solid black;
+    border-radius: 5vh;
+
+}
+
+.img img{
+    border: 1px solid black;
+    border-radius: 5vh;
+}
+.cap{
+    text-align: center;
+    color: #631903;
+    stroke-width: 10px;
+}
+caption{
+    margin: auto;
+    padding: 5vh;
+    font-size: 35px;
+    font-weight:bolder;
+    color: crimson;
+    font-family: cursive;
+}
+p{
+    font-size: 25px;
+    margin: 1px;
+    word-spacing: normal;
+}
+li{
+    font-size: 25px;
+}
+big{
+    margin: auto;
+}
+ul li{
+    margin: 2vh;
+}
+table{
+    width: 100%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    
+    
+}
+table, th, td{
+    border: 1.5px solid rgb(94, 4, 4);
+    border-collapse: collapse;
+    border-radius: 15px;
+    font-size: 25px;
+    text-align: center;
+    
+}
+footer{
+    margin-top: 5vh;
+}
+footer p{
+    display: inline;
+    margin-top: 5vh;
+    margin-left: auto;
+}
