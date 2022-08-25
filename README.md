@@ -1,1 +1,0 @@
-This repositary is mainly made for the purpose of learning the git and also to implement the website task.
